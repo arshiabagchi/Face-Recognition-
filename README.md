@@ -51,7 +51,12 @@ This project is a facial recognition system that allows users to create a datase
    - The model will predict and display the recognized person.
   
 ## Screenshots
+
+   - Dataset
 ![image](https://github.com/user-attachments/assets/0c21a519-4017-487e-9f87-b0ffe7dc576c)
+
+   - Prediction
+![image](https://github.com/user-attachments/assets/aca1043b-0755-421a-8259-7933ed38d161)
 
 
 ## Acknowledgments
