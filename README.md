@@ -49,6 +49,10 @@ This project is a facial recognition system that allows users to create a datase
 3. **Recognize Faces**
    - Capture a new image and run it through the trained model.
    - The model will predict and display the recognized person.
+  
+## Screenshots
+![image](https://github.com/user-attachments/assets/0c21a519-4017-487e-9f87-b0ffe7dc576c)
+
 
 ## Acknowledgments
 This project is inspired by facial recognition applications and aims to provide a basic yet effective implementation using deep learning techniques.
